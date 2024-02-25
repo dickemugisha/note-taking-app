@@ -1,2 +1,2 @@
-# note
+# Note Taking Application
 Note Takin
