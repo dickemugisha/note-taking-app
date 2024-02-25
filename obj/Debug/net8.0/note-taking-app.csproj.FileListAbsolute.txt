@@ -12,3 +12,4 @@
 /Users/fadebaby/Documents/github-repos/note-taking-app/obj/Debug/net8.0/note-taking-app.pdb
 /Users/fadebaby/Documents/github-repos/note-taking-app/obj/Debug/net8.0/note-taking-app.genruntimeconfig.cache
 /Users/fadebaby/Documents/github-repos/note-taking-app/obj/Debug/net8.0/ref/note-taking-app.dll
+/Users/fadebaby/Documents/github-repos/note-taking-app/obj/Debug/net8.0/note-taking-app.sourcelink.json
