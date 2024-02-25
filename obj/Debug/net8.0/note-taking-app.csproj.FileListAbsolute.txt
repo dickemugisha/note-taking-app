@@ -1,0 +1,14 @@
+/Users/fadebaby/Documents/github-repos/note-taking-app/bin/Debug/net8.0/note-taking-app
+/Users/fadebaby/Documents/github-repos/note-taking-app/bin/Debug/net8.0/note-taking-app.deps.json
+/Users/fadebaby/Documents/github-repos/note-taking-app/bin/Debug/net8.0/note-taking-app.runtimeconfig.json
+/Users/fadebaby/Documents/github-repos/note-taking-app/bin/Debug/net8.0/note-taking-app.dll
+/Users/fadebaby/Documents/github-repos/note-taking-app/bin/Debug/net8.0/note-taking-app.pdb
+/Users/fadebaby/Documents/github-repos/note-taking-app/obj/Debug/net8.0/note-taking-app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fadebaby/Documents/github-repos/note-taking-app/obj/Debug/net8.0/note-taking-app.AssemblyInfoInputs.cache
+/Users/fadebaby/Documents/github-repos/note-taking-app/obj/Debug/net8.0/note-taking-app.AssemblyInfo.cs
+/Users/fadebaby/Documents/github-repos/note-taking-app/obj/Debug/net8.0/note-taking-app.csproj.CoreCompileInputs.cache
+/Users/fadebaby/Documents/github-repos/note-taking-app/obj/Debug/net8.0/note-taking-app.dll
+/Users/fadebaby/Documents/github-repos/note-taking-app/obj/Debug/net8.0/refint/note-taking-app.dll
+/Users/fadebaby/Documents/github-repos/note-taking-app/obj/Debug/net8.0/note-taking-app.pdb
+/Users/fadebaby/Documents/github-repos/note-taking-app/obj/Debug/net8.0/note-taking-app.genruntimeconfig.cache
+/Users/fadebaby/Documents/github-repos/note-taking-app/obj/Debug/net8.0/ref/note-taking-app.dll
